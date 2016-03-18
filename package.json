@@ -2,7 +2,7 @@
   "name": "@f/set-proto",
   "description": "Set the proto of an object.",
   "repository": "git://github.com/micro-js/set-prototype.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
